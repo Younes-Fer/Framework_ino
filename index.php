@@ -2,7 +2,7 @@
 
 require 'vendor/autoload.php';
 /**
- * Method to rin application
+ * Method to run application
  */
 require 'bootstrap/App.php';
 
